@@ -1,1 +1,2 @@
-这里是config-dev
+config
+ info: hello,config-dev
